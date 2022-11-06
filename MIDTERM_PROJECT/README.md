@@ -6,7 +6,7 @@ This project will help society or Govt. to check ground water is safe for drinki
 ##  [Dataset used](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
 
 
-## instruction to run:
+## Instructions to run:
 
 Build bentoml 
 ```sh
