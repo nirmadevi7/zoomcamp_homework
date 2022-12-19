@@ -94,6 +94,14 @@ docker push 818606151817.dkr.ecr.us-east-1.amazonaws.com/news-classify:latest
 
 
 
+https://user-images.githubusercontent.com/113333934/208425808-9c358373-2152-4345-8556-41027c048350.mov
+
+
+
 ## AWS configuration 
+
+
+
+https://user-images.githubusercontent.com/113333934/208425933-a7a71009-6aee-4f55-be48-fc6f62d303a5.mov
 
 
