@@ -6,7 +6,7 @@ This project will help public to authenticate news .
 ## Context 
 The most often accessed type of information on social media is news, which is one of the massive amounts of content that users can access. Politicians, news outlets, newspaper websites, or even regular citizens may post these stories. Since distributing false information has become a major problem in recent years and many businesses are working to educate the public about the dangers of doing so, these posts need to be examined for authenticity. Since the manual classification of news is laborious, time-consuming, and vulnerable to prejudice, it is impossible to measure the validity of news that is posted online with any certainty.
 
-##  [Dataset link]([https://www.kaggle.com/datasets/algord/fake-news])
+##  [Dataset link] ([https://www.kaggle.com/datasets/algord/fake-news])
 
 
 ## Build Directory
