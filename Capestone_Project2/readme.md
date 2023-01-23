@@ -1,5 +1,5 @@
 
-## Capstone Project-1: Amazon Reviews Classification
+## Capstone Project-2: Amazon Reviews Classification
 
 This project will help public to understand product quality with product reviews.
 
