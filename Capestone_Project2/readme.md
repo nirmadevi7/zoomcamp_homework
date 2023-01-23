@@ -6,7 +6,7 @@ This project will help public to understand product quality with product reviews
 ## Context 
 Online sellers and merchants request feedback from their customers because online marketplaces have become increasingly popular over the past few decades. As a result, millions of reviews are produced every day, which makes it challenging for a potential customer to decide whether to buy the product or not. It is difficult and time-consuming for product manufacturers to analyse this massive amount of opinions. This thesis takes into account the issue of categorising reviews by their overall semantic (positive or negative).
 
-##  [Dataset link]([https://www.kaggle.com/datasets/danielihenacho/amazon-reviews-dataset])
+##  [Dataset link](https://www.kaggle.com/datasets/danielihenacho/amazon-reviews-dataset)
 
 
 ## Build Directory
